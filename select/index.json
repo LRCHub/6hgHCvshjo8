@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "嗚呼、青春の日々",
+  "base_artist": "ゆず",
+  "createdAt": "2026-02-14T15:20:14.072578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嗚呼、青春の日々",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/01_嗚呼、青春の日々_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "嗚呼，青春の日々",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/02_嗚呼,青春の日々_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "嗚呼、青春の日々",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/03_嗚呼、青春の日々_ゆず.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嗚呼、青春の日々",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_嗚呼、青春の日々_ゆず.txt"
+    }
+  ]
+}
